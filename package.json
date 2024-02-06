@@ -1,4 +1,5 @@
 {
+  "name": "nextjs-learn-dashboard",
   "private": true,
   "scripts": {
     "build": "next build",
